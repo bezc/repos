@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: ea5f54ed5c0979045a2a1ecee5f041fd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rear_left
+    21300002: tail
+    21300004: head
+    21300006: front_left
+    21300008: front_right
+    21300010: torso
+    21300012: rear_right
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333328
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rear_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: .217668518, y: .691582024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tail
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 39
+        height: 60
+      alignment: 9
+      pivot: {x: .53981626, y: .147085577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 60
+        height: 31
+      alignment: 9
+      pivot: {x: .787037253, y: .172130957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: front_left
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: .244137228, y: .829386771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: front_right
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: .728554666, y: .729393959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: torso
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rear_right
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 11
+        width: 14
+        height: 11
+      alignment: 9
+      pivot: {x: .241563529, y: .592097342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
